@@ -65,6 +65,6 @@ This site was created as a submission to a [DevChallenges](https://devchallenges
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
+
 - GitHub [@jrguillennavas](https://github.com/jrguillennavas)
 - Twitter [@jguillen25](https://twitter.com/jguillen25)
